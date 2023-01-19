@@ -1,4 +1,5 @@
 ### Hi there 👋
+![jake5113's GitHub stats](https://github-readme-stats.vercel.app/api?username=jake5113&show_icons=true&theme=shades-of-purple)
 
 
 <!--
