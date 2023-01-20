@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://jake5113.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/istory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-<a href="https://jake5113.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/aver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
+<a href="https://blog.naver.com/wkdusdb" target="_blank"><img src="https://img.shields.io/badge/aver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 <a href="https://www.instagram.com/jongwon5113/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
