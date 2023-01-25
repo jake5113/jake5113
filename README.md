@@ -11,13 +11,10 @@
 ![jake5113's GitHub stats](https://github-readme-stats.vercel.app/api?username=jake5113&show_icons=true&theme=midnight-purple)
 <img src="https://www.computerhope.com/jargon/a/android.png" width="17%"></right>
 
-
-<table border="1" align="center">
-  <tr>
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/1200px-Kotlin_Icon_2021.svg.png"></td>
-<td><img src="https://blog.kakaocdn.net/dn/ehfQWK/btrnP7Cexxc/ZmLpToeisMobjHGaLfEDg0/img.png" width="50%"></td>
-  <tr>
-</table>
+<p align="center">
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/1200px-Kotlin_Icon_2021.svg.png" width="17%"></td>
+<td><img src="https://blog.kakaocdn.net/dn/ehfQWK/btrnP7Cexxc/ZmLpToeisMobjHGaLfEDg0/img.png" width="40%"></td>
+</p>
 <!--
 **jake5113/jake5113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
