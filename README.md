@@ -12,8 +12,8 @@
 <img src="https://www.computerhope.com/jargon/a/android.png" width="17%"></right>
 
 <p align="center">
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/1200px-Kotlin_Icon_2021.svg.png" width="17%"></td>
-<td><img src="https://blog.kakaocdn.net/dn/ehfQWK/btrnP7Cexxc/ZmLpToeisMobjHGaLfEDg0/img.png" width="40%"></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/1200px-Kotlin_Icon_2021.svg.png" width="20%"></td>
+<td><img src="https://blog.kakaocdn.net/dn/ehfQWK/btrnP7Cexxc/ZmLpToeisMobjHGaLfEDg0/img.png" width="35%"></td>
 </p>
 <!--
 **jake5113/jake5113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
