@@ -15,6 +15,13 @@
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/1200px-Kotlin_Icon_2021.svg.png" width="20%"></td>
 <td><img src="https://blog.kakaocdn.net/dn/ehfQWK/btrnP7Cexxc/ZmLpToeisMobjHGaLfEDg0/img.png" width="35%"></td>
 </p>
+
+
+<p align="center">
+<a target="Android Studio"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white"/></a>
+<a target="kotlin"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+</p>
+
 <!--
 **jake5113/jake5113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
