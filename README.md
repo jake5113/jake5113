@@ -5,28 +5,31 @@
 <a href="https://blog.naver.com/wkdusdb" target="_blank"><img src="https://img.shields.io/badge/aver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 <a href="https://www.instagram.com/jongwon5113/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
-
-
-<img src="https://blog.kakaocdn.net/dn/sjncG/btretbOWUEC/DK04YKcw4fUyrGdROInsq1/img.png" width="20%"></left>
-![jake5113's GitHub stats](https://github-readme-stats.vercel.app/api?username=jake5113&show_icons=true&theme=midnight-purple)
-<img src="https://www.computerhope.com/jargon/a/android.png" width="17%"></right>
-
+<p align="center">
+<a target="kotlin"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+<a target="Android Studio"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white"/></a>
+</p>
 
 <h3 align=center>
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wkdusdb)](https://solved.ac/wkdusdb)
+
+![jake5113's GitHub stats](https://github-readme-stats.vercel.app/api?username=jake5113&show_icons=true&theme=midnight-purple)
 
 </h3>
 
-<p align="center">
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/1200px-Kotlin_Icon_2021.svg.png" width="20%"></td>
-<td><img src="https://blog.kakaocdn.net/dn/ehfQWK/btrnP7Cexxc/ZmLpToeisMobjHGaLfEDg0/img.png" width="35%"></td>
-</p>
+<h3 align=center>
+  
+  <img src="https://blog.kakaocdn.net/dn/sjncG/btretbOWUEC/DK04YKcw4fUyrGdROInsq1/img.png" width="20%"></left>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wkdusdb)](https://solved.ac/wkdusdb)
+  <img src="https://www.computerhope.com/jargon/a/android.png" width="17%"></right>
+  
+</h3>
 
-
 <p align="center">
-<a target="Android Studio"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white"/></a>
-<a target="kotlin"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+ 
+  <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/1200px-Kotlin_Icon_2021.svg.png" width="20%"></td>
+  <td><img src="https://blog.kakaocdn.net/dn/ehfQWK/btrnP7Cexxc/ZmLpToeisMobjHGaLfEDg0/img.png" width="35%"></td>
+  
 </p>
 
 <!--
