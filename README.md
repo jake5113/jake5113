@@ -22,6 +22,10 @@
 
 </h3>
 
+<p align="center">
+ 
+  <td><img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/s1cihnpc1cnekihotv0e" width="20%"></td>
+
 <h3 align=center>
   
   <img src="https://blog.kakaocdn.net/dn/sjncG/btretbOWUEC/DK04YKcw4fUyrGdROInsq1/img.png" width="20%"></left>
