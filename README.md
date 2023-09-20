@@ -3,7 +3,10 @@
 
 
 <p align="center">
-<img src="https://scontent-gmp1-1.xx.fbcdn.net/v/t1.18169-9/1619219_1385374065020763_602186142_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=IUbbdP4CgiYAX8u10L5&_nc_ht=scontent-gmp1-1.xx&oh=00_AfDx-3VxRI9Ds8wX2I-OmFaGEHgvRHnbTWGEnVSh9yez8Q&oe=652928D6" width="60%">
+<img src="https://blog.kakaocdn.net/dn/sjncG/btretbOWUEC/DK04YKcw4fUyrGdROInsq1/img.png" width="10%">
+<img src="https://scontent-gmp1-1.xx.fbcdn.net/v/t1.18169-9/1619219_1385374065020763_602186142_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=IUbbdP4CgiYAX8u10L5&_nc_ht=scontent-gmp1-1.xx&oh=00_AfDx-3VxRI9Ds8wX2I-OmFaGEHgvRHnbTWGEnVSh9yez8Q&oe=652928D6" width="10%">
+<img src="https://media.idownloadblog.com/wp-content/uploads/2018/07/Apple-logo-black-and-white.png" width="8%">
+
 <br>
 🧡
 <a href="https://jake5113.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/istory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
@@ -24,38 +27,10 @@
 
 ![jake5113's GitHub stats](https://github-readme-stats.vercel.app/api?username=jake5113&show_icons=true&theme=midnight-purple)
 
-</h3>
+![GitHub metrics](https://metrics.lecoq.io/jake5113)
 
-<p align="center">
- 
-  <td><img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/s1cihnpc1cnekihotv0e" width="20%"></td>
-
-<h3 align=center>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=jake5113)
   
-  <img src="https://blog.kakaocdn.net/dn/sjncG/btretbOWUEC/DK04YKcw4fUyrGdROInsq1/img.png" width="20%"></left>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wkdusdb)](https://solved.ac/wkdusdb)
-  <img src="https://www.computerhope.com/jargon/a/android.png" width="17%"></right>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wkdusdb)](https://solved.ac/wkdusdb)
   
 </h3>
-
-<p align="center">
- 
-  <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/1200px-Kotlin_Icon_2021.svg.png" width="20%"></td>
-  <td><img src="https://blog.kakaocdn.net/dn/ehfQWK/btrnP7Cexxc/ZmLpToeisMobjHGaLfEDg0/img.png" width="35%"></td>
-  
-</p>
-
-<!--
-**jake5113/jake5113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
