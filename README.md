@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jake%20Github👋😋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
-# <img src="https://scontent-gmp1-1.xx.fbcdn.net/v/t1.18169-9/1619219_1385374065020763_602186142_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=IUbbdP4CgiYAX8u10L5&_nc_ht=scontent-gmp1-1.xx&oh=00_AfDx-3VxRI9Ds8wX2I-OmFaGEHgvRHnbTWGEnVSh9yez8Q&oe=652928D6" width="3%"> Mobile Developer  
+# <img src="https://scontent-gmp1-1.xx.fbcdn.net/v/t1.18169-9/1619219_1385374065020763_602186142_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=IUbbdP4CgiYAX8u10L5&_nc_ht=scontent-gmp1-1.xx&oh=00_AfDx-3VxRI9Ds8wX2I-OmFaGEHgvRHnbTWGEnVSh9yez8Q&oe=652928D6" width="3%"> Mobile Developer
 <p align="center">
     <img src="https://media.idownloadblog.com/wp-content/uploads/2018/07/Apple-logo-black-and-white.png" width="9%" style="margin: 10px;">
     <img src="https://blog.kakaocdn.net/dn/sjncG/btretbOWUEC/DK04YKcw4fUyrGdROInsq1/img.png" width="10%" style="margin: 10px;">
-<br>
+<br><br>
 <a href="https://jake5113.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/istory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a><a href="https://blog.naver.com/wkdusdb" target="_blank"> <img src="https://img.shields.io/badge/aver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a> <a href="https://www.instagram.com/jongwon5113/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
 <br>  
 <a target="android"><img src="https://img.shields.io/badge/android-3DDC84?&style=for-the-badge&logo=android&logoColor=white"/></a>
