@@ -23,12 +23,16 @@
     <a target="appstore"><img src="https://img.shields.io/badge/appstore-0D96F6?&style=for-the-badge&logo=appstore&logoColor=white"/></a>
 </p>
 <p align="center">
+    <a target="firebase"><img src="https://img.shields.io/badge/firebase-FFCA28?&style=for-the-badge&logo=firebase&logoColor=white"/></a>
+</p>
+<p align="center">
     <a target="figma"><img src="https://img.shields.io/badge/figma-F24E1E?&style=for-the-badge&logo=figma&logoColor=white"/></a>
     <a target="python"><img src="https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/></a>
     <a target="c"><img src="https://img.shields.io/badge/c-A8B9CC?&style=for-the-badge&logo=c&logoColor=white"/></a>
     <a target="html5"><img src="https://img.shields.io/badge/html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white"/></a>
     <a target="javascript"><img src="https://img.shields.io/badge/javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white"/></a>
     <a target="css3"><img src="https://img.shields.io/badge/css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/></a>
+    <a target="react native"><img src="https://img.shields.io/badge/react%20native-61DAFB?&style=for-the-badge&logo=react&logoColor=white"/></a>
 </p>
 <p align="center">
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjake5113&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
