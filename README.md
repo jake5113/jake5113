@@ -38,7 +38,7 @@
 - 스파르타코딩클럽 앱개발 종합반 8기 (React Native) (2021.01 ~ 2021.02)
 # 멘토링
 - 배화여자대학교 3학년 졸업작품 Android 멘토 (2023.09 ~ )
-- 멋쟁이 사자처럼 앱 스쿨 : iOS 3기 멘티 (멘토:[그린💚](https://github.com/GREENOVER))(2023.09 ~ )
+- 멋쟁이 사자처럼 앱 스쿨 : iOS 3기 멘티 (멘토:[그린🍏](https://github.com/GREENOVER))(2023.09 ~ )
 
 #
 <h3 align=center>
