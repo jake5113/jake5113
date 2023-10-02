@@ -52,8 +52,4 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wkdusdb)](https://solved.ac/wkdusdb)
   
-</h3>
-<h1 align=center>
-🇳🇿 🇰🇭 🇲🇳 🇹🇼 🇯🇵 🇯🇵 🇰🇪 🇹🇿 🇻🇳 🇯🇵 🇮🇩 🇸🇬 🇬🇧 🇫🇷 🇮🇹 🇳🇵
-</h1>
 
