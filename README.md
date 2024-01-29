@@ -39,8 +39,8 @@
 - 한국성서대학교 컴퓨터소프트웨어학과 졸업 (2017.03 ~ 2023.02)
 - 스파르타코딩클럽 앱개발 종합반 8기 (React Native) (2021.01 ~ 2021.02)
 # 멘토링
-- 배화여자대학교 3학년 졸업작품 Android [멘토](https://jake5113.tistory.com/48) (2023.09 ~ )
-- 멋쟁이 사자처럼 앱 스쿨 : iOS 3기 멘티 (멘토:[그린🍏](https://github.com/GREENOVER))(2023.09 ~ )
+- 배화여자대학교 3학년 졸업작품 Android [멘토](https://jake5113.tistory.com/48) (2023.09 ~ 2023.11)
+- 멋쟁이 사자처럼 앱 스쿨 : iOS 3기 멘티 (멘토:[그린🍏](https://github.com/GREENOVER))(2023.09 ~ 2024.02)
 
 #
 <h3 align=center>
