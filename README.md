@@ -51,7 +51,6 @@
 ![GitHub metrics](https://metrics.lecoq.io/jake5113)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=jake5113)
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wkdusdb)](https://solved.ac/wkdusdb)
+
   
 
