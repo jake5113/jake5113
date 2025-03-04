@@ -31,7 +31,10 @@
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjake5113&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
-# 교육 사항
+# 경력
+- 넛지헬스케어 iOS팀 (2024.05 ~ )
+
+# 교육
 - 멋쟁이 사자처럼 앱 스쿨 : iOS 3기 (2023.09 ~ 2024.03)
 - [패스트캠퍼스] UXUI 디자인 첫걸음 with 피그마 (2023.10 ~ 2023.12)
 - [패스트캠퍼스] 서비스 기획 PM 완주반 : 3대 서비스 역기획부터 런칭까지 (2023.10 ~ 2023.12)
